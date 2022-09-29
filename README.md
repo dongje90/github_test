@@ -33,7 +33,7 @@
 ~~중간선~~
 
 
-'''
+```
 def print():
   dfsdffdsfsd
-'''
+```
