@@ -23,5 +23,17 @@
 
 [google](https://google.com)
 
+첫번째 줄
+***
+두번째 줄
+- - -
+
+*강조1*
+***강조2***
+~~중간선~~
 
 
+'''
+def print():
+  dfsdffdsfsd
+'''
