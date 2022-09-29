@@ -21,7 +21,7 @@
 + 플러스
 - 마이너스
 
-[google](https://google.com,"google's link")
+[google](https://google.com)
 
 
 
